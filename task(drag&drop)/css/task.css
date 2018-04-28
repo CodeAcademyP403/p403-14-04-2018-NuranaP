@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+.left {
+    border: 1px solid #aa5102;
+    height: 350px;
+    width: 100%;
+    margin-top: 70px;
+}
+.right {
+    border: 1px solid #aa5102;
+    height: 350px;
+    width: 100%;
+    margin-top: 70px;
+}
+.cards {
+    height: 165px;
+    border: 1px solid #aa5102;
+    margin-top: 5px;
+    background-color: #fa9e5d;
+    font-size: 1.5em;
+    width: 100%;
+}
+.cardsR {
+    height: 165px;
+    border: 1px solid #aa5102;
+    margin-top: 5px;
+}
+
